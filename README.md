@@ -1,10 +1,10 @@
-
 # Greetings!
 
+## Overview
 My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
 
 
-# My background 😁
+## My background 😁
 🌁 Born and raised in Berkeley, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
@@ -15,7 +15,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
 
 
-# Hobbies of mine 🙈
+## Hobbies of mine 🙈
 🏀 Playing basketball (aka hoopin' ⛹️‍♂️)  
 🎽 Doing basically any sort of outdoor/sporty/competitive activity ➡️ 🏂 🏊‍♂️ 🏓 🚴 🏋️ 🚣‍ ⛳ 🎱        
 🍳 Cooking all types of food (aka cheffin' it up 👨‍🍳)    
@@ -24,6 +24,6 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 🗺️ Traveling, exploring, and learning about new cities, countries, and cultures     
 
 
-# How to reach me 📬
+## How to reach me 📬
 LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
 Email: tenzin.p.choezin@gmail.com     
