@@ -1,4 +1,4 @@
-#### This is my personal website but it's still a working... progress. Read below 👇 for more about me.
+#### This is my personal website but it's still a working... progress. Read on to learn more about me.
 <br/>
 
 ## An introduction!
@@ -32,5 +32,6 @@ GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 
 -------------------
-# My resume 📄
+<h1 align="center">Resume below 👇 </h1>
+
 ![](TZCZ_Resume.png)
