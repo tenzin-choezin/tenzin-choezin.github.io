@@ -29,7 +29,6 @@ LinkedIn: [https://www.linkedin.com/in/tenzinchoezin/](https://www.linkedin.com/
 Email: [tenzin.p.choezin@gmail.com](tenzin.p.choezin@gmail.com)  
 GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
-<br />
 
 # Check out my resume too! 📄
 ![](TZCZ_Resume.png)
