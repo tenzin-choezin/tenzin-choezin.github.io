@@ -33,5 +33,6 @@ GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 -------------------
 <h1 align="center">Resume 👇</h1>
+<br/>
 
 ![](TZCZ_Resume.png)
