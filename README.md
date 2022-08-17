@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Hey 👋, thanks for stopping by! 
+My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
 
-You can use the [editor on GitHub](https://github.com/tz-cz/tz-cz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![hey there](https://github.com/tz-cz/Images/blob/main/heythere.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# My background 😁
+🌁 Born and raised in Berkeley, CA (East Bay Area)  
+🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
+🐻 Began my college journey at Cal as an undergrad pursuing data science   
+💻 Shortly after, I took my first data science / programming course and became really drawn to it     
+🧑‍🏫 Worked as a teaching assistant (TA) for [Data 88](https://data-88e.github.io/fa20/), a data science and economics connector course, as well as [Stat 88](http://stat88.org/), a course on probability and mathematical statistics in data science      
+🔋 Interned at [Pacific Gas and Electric Company](https://www.pge.com/) (PG&E) as a data engineer 📊 for the [PSPS](https://www.pge.com/en_US/residential/outages/public-safety-power-shuttoff/learn-about-psps.page) wildfire prevention team     
+🌐 Just finished interning at IBM as a data scientist 📈 for the [Watson AIOps](https://www.ibm.com/cloud/cloud-pak-for-watson-aiops) 🤖 team as part of the [Extreme Blue Technical Leadership Program](https://www.ibm.com/employment/extremeblue/)  
+❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Hobbies of mine 🙈
+🏀 Playing basketball (aka hoopin' ⛹️‍♂️)  
+🎽 Doing basically any sort of outdoor/sporty/competitive activity ➡️ 🏂 🏊‍♂️ 🏓 🚴 🏋️ 🚣‍ ⛳ 🎱        
+🍳 Cooking all types of food (aka cheffin' it up 👨‍🍳)    
+🎧 Listening to music, podcasts, and curating 🔀 playlists      
+📚 Reading books 🔖 (mainly genres like science & technology, business and finance, religion, and history)          
+🗺️ Traveling, exploring, and learning about new cities, countries, and cultures     
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tz-cz/tz-cz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# How to reach me 📬
+LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
+Email: tenzin.p.choezin@gmail.com     
