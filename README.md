@@ -30,4 +30,4 @@ Email: [tenzin.p.choezin@gmail.com](tenzin.p.choezin@gmail.com)
 GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 ### Check out my resume below 📄
-![](resume.png)
+![](TZCZ_Resume.png)
