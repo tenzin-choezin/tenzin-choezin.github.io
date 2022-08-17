@@ -1,7 +1,7 @@
 #### This is my personal website but it's still a working progress... Read below 👇 to find out more about me.
 <br/>
 
-## An introduction!
+## An introduction 
 My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
 
 
@@ -32,5 +32,5 @@ GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 
 -------------------
-# Check out my resume as well 📄
+# My resume 📄
 ![](TZCZ_Resume.png)
