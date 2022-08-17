@@ -1,11 +1,11 @@
-#### This is my personal website but it's still a working... progress. Read on to learn more about me.
+#### This is my personal website but it's still a working... progress. Read on below to learn more about me!
 <br/>
 
-## An introduction!
+## An introduction 🤝🏼
 My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
 
 
-## My background 😁
+## My background 💁🏻‍♂️
 🌁 Born and raised in Berkeley, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
@@ -32,6 +32,6 @@ GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 
 -------------------
-<h1 align="center">Resume below 👇 </h1>
+<h1 align="center">Resume 👇</h1>
 
 ![](TZCZ_Resume.png)
