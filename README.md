@@ -28,7 +28,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 ## How to reach me 📬
 LinkedIn: [https://www.linkedin.com/in/tenzinchoezin/](https://www.linkedin.com/in/tenzinchoezin/)      
 Email: [tenzin.p.choezin@gmail.com](tenzin.p.choezin@gmail.com)  
-GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
+GitHub: [https://github.com/tenzin-choezin](https://github.com/tenzin-choezin)
 
 
 -------------------
