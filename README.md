@@ -32,5 +32,5 @@ GitHub: [https://github.com/tz-cz](https://github.com/tz-cz)
 
 
 -------------------
-# Check out my resume too!
+# Check out my resume as well 📄
 ![](TZCZ_Resume.png)
