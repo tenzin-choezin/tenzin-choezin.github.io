@@ -2,7 +2,7 @@
 <br/>
 
 <p align="center">
-  <img src="pfp.png" width="400"/>
+  <img src="pfp.png" width="250"/>
 </p>
 
 ## An introduction 🤝🏼
