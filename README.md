@@ -38,4 +38,4 @@ GitHub: [https://github.com/tenzin-choezin](https://github.com/tenzin-choezin)
 -------------------
 <h1 align="center">Resume 👇</h1>
 
-![](TenzinChoezin_Resume.png)
+![](TenzinChoezin_Resume.pdf)
