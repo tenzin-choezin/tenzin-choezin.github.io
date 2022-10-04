@@ -1,4 +1,4 @@
-#### Hi there! This is my personal website. Read on below to learn more about me!
+#### This is my personal website. Read on below to learn more about me!
 <br/>
 
 <p align="center">
